@@ -1,3 +1,3 @@
 # Data Science 
 Data Science  
-weekly projects 
+Weekly projects (from 2022.03 ~ 2022.06)
