@@ -1,1 +1,2 @@
-# DS-phw
+# Data Science 
+weekly projects
