@@ -1,3 +1,3 @@
 # Data Science 
 Data Science
-weekly projects
+ weekly projects
